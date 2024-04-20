@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "129972881276",
+    "project_id": "sana-vita-42a9d",
+    "storage_bucket": "sana-vita-42a9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129972881276:android:14a4cf0c9b4940a07e46f9",
+        "android_client_info": {
+          "package_name": "com.savavita.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpORxE9GvasQMA8ONDHEnYDKL3sk5CX2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
